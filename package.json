@@ -1,0 +1,15 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Write a function named \"Challenge\" that throws an error with a message \"Successful throw!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest exercise.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
